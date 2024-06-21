@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project Slidely AI\\MyWindowsFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|d:\\project slidely ai\\mywindowsformsapp\\mywindowsformsapp\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|solutionrelative:mywindowsformsapp\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|d:\\project slidely ai\\mywindowsformsapp\\mywindowsformsapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|solutionrelative:mywindowsformsapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|d:\\project slidely ai\\mywindowsformsapp\\mywindowsformsapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|solutionrelative:mywindowsformsapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|d:\\project slidely ai\\mywindowsformsapp\\mywindowsformsapp\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|solutionrelative:mywindowsformsapp\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Slidely AI\\backend-server\\src\\routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Slidely AI\\backend-server\\src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|d:\\project slidely ai\\mywindowsformsapp\\mywindowsformsapp\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|solutionrelative:mywindowsformsapp\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|d:\\project slidely ai\\mywindowsformsapp\\mywindowsformsapp\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|solutionrelative:mywindowsformsapp\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|d:\\project slidely ai\\mywindowsformsapp\\mywindowsformsapp\\createsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|solutionrelative:mywindowsformsapp\\createsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|d:\\project slidely ai\\mywindowsformsapp\\mywindowsformsapp\\viewsubmissionsform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|solutionrelative:mywindowsformsapp\\viewsubmissionsform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|d:\\project slidely ai\\mywindowsformsapp\\mywindowsformsapp\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{784524A7-2490-4998-AC3C-225D3058FDE5}|MyWindowsFormsApp\\MyWindowsFormsApp.vbproj|solutionrelative:mywindowsformsapp\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Slidely AI\\backend-server\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "MyWindowsFormsApp\\ViewSubmissionsForm.vb",
+              "ToolTip": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "MyWindowsFormsApp\\ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T12:16:13.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\Form1.vb",
+              "RelativeDocumentMoniker": "MyWindowsFormsApp\\Form1.vb",
+              "ToolTip": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\Form1.vb",
+              "RelativeToolTip": "MyWindowsFormsApp\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T12:34:26.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateSubmissionForm.vb [Design]",
+              "DocumentMoniker": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "MyWindowsFormsApp\\CreateSubmissionForm.vb",
+              "ToolTip": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\CreateSubmissionForm.vb [Design]",
+              "RelativeToolTip": "MyWindowsFormsApp\\CreateSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T14:07:47.557Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSubmissionForm.vb",
+              "DocumentMoniker": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "MyWindowsFormsApp\\CreateSubmissionForm.vb",
+              "ToolTip": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\CreateSubmissionForm.vb",
+              "RelativeToolTip": "MyWindowsFormsApp\\CreateSubmissionForm.vb",
+              "ViewState": "AQIAACkAAACAZmZmZmYqwE0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T12:19:43.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\Form1.vb",
+              "RelativeDocumentMoniker": "MyWindowsFormsApp\\Form1.vb",
+              "ToolTip": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\Form1.vb [Design]",
+              "RelativeToolTip": "MyWindowsFormsApp\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T13:04:59.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.ts",
+              "DocumentMoniker": "D:\\Project Slidely AI\\backend-server\\src\\index.ts",
+              "RelativeDocumentMoniker": "..\\backend-server\\src\\index.ts",
+              "ToolTip": "D:\\Project Slidely AI\\backend-server\\src\\index.ts",
+              "RelativeToolTip": "..\\backend-server\\src\\index.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-21T13:14:47.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "routes.ts",
+              "DocumentMoniker": "D:\\Project Slidely AI\\backend-server\\src\\routes.ts",
+              "RelativeDocumentMoniker": "..\\backend-server\\src\\routes.ts",
+              "ToolTip": "D:\\Project Slidely AI\\backend-server\\src\\routes.ts",
+              "RelativeToolTip": "..\\backend-server\\src\\routes.ts",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-21T13:15:05.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "MyWindowsFormsApp\\ViewSubmissionsForm.vb",
+              "ToolTip": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "MyWindowsFormsApp\\ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T17:50:44.946Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateSubmissionForm.Designer.vb",
+              "DocumentMoniker": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\CreateSubmissionForm.Designer.vb",
+              "RelativeDocumentMoniker": "MyWindowsFormsApp\\CreateSubmissionForm.Designer.vb",
+              "ToolTip": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\CreateSubmissionForm.Designer.vb",
+              "RelativeToolTip": "MyWindowsFormsApp\\CreateSubmissionForm.Designer.vb",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAswK8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T12:20:04.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewSubmissionsForm.Designer.vb",
+              "DocumentMoniker": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\ViewSubmissionsForm.Designer.vb",
+              "RelativeDocumentMoniker": "MyWindowsFormsApp\\ViewSubmissionsForm.Designer.vb",
+              "ToolTip": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\ViewSubmissionsForm.Designer.vb",
+              "RelativeToolTip": "MyWindowsFormsApp\\ViewSubmissionsForm.Designer.vb",
+              "ViewState": "AQIAAC0AAAAAZWZmZmYOwHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T12:15:32.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "MyWindowsFormsApp\\Form1.Designer.vb",
+              "ToolTip": "D:\\Project Slidely AI\\MyWindowsFormsApp\\MyWindowsFormsApp\\Form1.Designer.vb",
+              "RelativeToolTip": "MyWindowsFormsApp\\Form1.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T12:34:49.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Project Slidely AI\\backend-server\\package.json",
+              "RelativeDocumentMoniker": "..\\backend-server\\package.json",
+              "ToolTip": "D:\\Project Slidely AI\\backend-server\\package.json",
+              "RelativeToolTip": "..\\backend-server\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T12:32:33.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
